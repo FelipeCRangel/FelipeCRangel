@@ -1,7 +1,7 @@
 ### Opa, sou o Felipe Rangel 
 
 - 🔭 Estou trabalhando com Front End 
-- 🌱 Estou estudando React 
+- 🌱 Estou estudando Node
 - 📫 Email para contato: carvalhofeliperangel@gmail.com
 
 
